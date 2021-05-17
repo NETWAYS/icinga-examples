@@ -10,6 +10,6 @@ Feel free to add your thoughts and ideas, but this repository is not really acti
 
 ## License
 
-![https://i.creativecommons.org/l/by-sa/4.0/88x31.png]
+![CC-BY-SA logo](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
